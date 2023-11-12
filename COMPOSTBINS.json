@@ -1,0 +1,74 @@
+[
+  {
+    "Type": "Tumbler Bin",
+    "Description": "Rotating bin for efficient composting",
+    "Size": "Medium (60-80 gallons)",
+    "Material": "Plastic or metal",
+    "Best Use": "Outdoor/garden",
+    "Price Range": "$100-$200",
+    "Pros": "Quick composting, easy to turn",
+    "Cons": "Requires manual turning, can be heavy",
+    "Maintenance": "Regular turning, cleaning as needed",
+    "Image": "https://www.planetnatural.com/wp-content/uploads/2023/01/compost-tumbler.jpg"
+  },
+  {
+    "Type": "Stationary Bin",
+    "Description": "Fixed bin, suitable for large quantities of compost",
+    "Size": "Large (100-200 gallons)",
+    "Material": "Wood or plastic",
+    "Best Use": "Outdoor/large yards",
+    "Price Range": "$50-$150",
+    "Pros": "Holds large volumes, durable",
+    "Cons": "Not portable, slower process",
+    "Maintenance": "Occasional aeration, protection from pests",
+    "Image": "https://mazeproducts.com.au/wp-content/uploads/green-johanna-compost-bin01.jpg"
+  },
+  {
+    "Type": "Worm Composter",
+    "Description": "Composter using worms to break down organic matter",
+    "Size": "Small (20-30 gallons)",
+    "Material": "Plastic",
+    "Best Use": "Indoor or outdoor",
+    "Price Range": "$80-$150",
+    "Pros": "Nutrient-rich compost, low odor",
+    "Cons": "Requires management of worm habitat",
+    "Maintenance": "Moisture and pH balance for worms",
+    "Image": "https://cdn11.bigcommerce.com/s-625n27otji/images/stencil/960w/products/1615/2594/hungry-bin-white-background__97830.1639395062.jpg?c=1"
+  },
+  {
+    "Type": "Kitchen Composter",
+    "Description": "Small composter designed for kitchen waste",
+    "Size": "Small (1-5 gallons)",
+    "Material": "Ceramic or stainless steel",
+    "Best Use": "Indoor/kitchen",
+    "Price Range": "$20-$50",
+    "Pros": "Convenient for daily kitchen waste, odor control",
+    "Cons": "Limited capacity, requires frequent emptying",
+    "Maintenance": "Regular cleaning, filter replacement",
+    "Image": "https://eu.lomi.com/cdn/shop/products/Lomi_PDP_0003_SANDIEGO2022-4_2_1946x.jpg?v=1666212371"
+  },
+  {
+    "Type": "Green Cone Composter",
+    "Description": "Solar-powered composting bin for food and garden waste",
+    "Size": "Medium (30-50 gallons)",
+    "Material": "Plastic",
+    "Best Use": "Outdoor/garden",
+    "Price Range": "$150-$250",
+    "Pros": "Handles a variety of waste, low maintenance",
+    "Cons": "Requires specific placement in the garden",
+    "Maintenance": "Minimal maintenance, occasional cleaning",
+    "Image": "https://mazeproducts.com.au/wp-content/uploads/green_cone_32791.jpg"
+  },
+  {
+    "Type": "Bokashi Bin",
+    "Description": "Japanese method composter for fermenting organic waste",
+    "Size": "Small (5-10 gallons)",
+    "Material": "Plastic or metal",
+    "Best Use": "Indoor/kitchen",
+    "Price Range": "$40-$100",
+    "Pros": "Efficient fermentation, no odor",
+    "Cons": "Requires specific Bokashi bran",
+    "Maintenance": "Regular addition of Bokashi bran, draining liquid",
+    "Image": "https://static1.squarespace.com/static/5704e43d555986fff4bead2b/5705219474e8d6c418ab915d/583c332d46c3c4b3912b739d/1548857105582/IMG_1832.jpg?format=1500w"
+  }
+]
